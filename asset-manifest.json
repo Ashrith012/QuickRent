@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QuickRent/static/css/main.78f34c4c.css",
+    "main.js": "/QuickRent/static/js/main.e1b3d6e3.js",
+    "index.html": "/QuickRent/index.html",
+    "main.78f34c4c.css.map": "/QuickRent/static/css/main.78f34c4c.css.map",
+    "main.e1b3d6e3.js.map": "/QuickRent/static/js/main.e1b3d6e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78f34c4c.css",
+    "static/js/main.e1b3d6e3.js"
+  ]
+}
