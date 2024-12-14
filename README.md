@@ -72,6 +72,16 @@ yarn start
 ##### Home Page
 ![hero-section](https://github.com/user-attachments/assets/6bc71de2-8684-48c5-a60c-e2f994afec63)
 
+##### Feature Page
+![features-section](https://github.com/user-attachments/assets/2736886d-8e82-4746-ad40-e8eafd9feb98)
+
+##### Gadgets Page
+![gadgets-section](https://github.com/user-attachments/assets/dfc7e3d9-655d-4456-a8e8-d75fbbc02184)
+
+![gadgets-section-2](https://github.com/user-attachments/assets/e56e4911-2814-40ce-8334-7dcef046938a)
+
+##### Contact Page
+![contact-section](https://github.com/user-attachments/assets/b6eeccad-beaf-4a63-a0b9-dc7411b57fa6)
 
 
 ## Live Demo
