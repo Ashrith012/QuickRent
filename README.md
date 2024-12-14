@@ -69,7 +69,10 @@ yarn start
 
 ## Screenshots
 
-[Screenshots will be added here]
+#Home Page
+![hero-section](https://github.com/user-attachments/assets/6bc71de2-8684-48c5-a60c-e2f994afec63)
+
+
 
 ## Live Demo
 
