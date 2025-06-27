@@ -86,7 +86,7 @@ yarn start
 
 ## Live Demo
 
-[Website link will be added when deployed]
+https://productrent.netlify.app/
 
 ## Built With
 
